@@ -17,13 +17,7 @@ div {
     font-size: 2rem;
 }
 
-.a {
-    
-}
 
-.b {
-
-}
 
 .c {
     grid-row: 1/ span 2;
@@ -38,10 +32,3 @@ div {
     grid-row: span 2;
 }
 
-.f {
-    
-}
-
-.g {
-    
-}
