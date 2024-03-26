@@ -10,7 +10,7 @@ img {
     grid-template-columns: repeat(4, minmax(min-content, 1fr));
     grid-template-areas:
       "featured featured featured featured"
-     " ... ... main main";
+     " ... ...  main main";
     gap: 1%;
   }
   .featured {
