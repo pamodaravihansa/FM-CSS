@@ -1,0 +1,10 @@
+#artists h4 {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 0.8rem;
+    margin: 0;
+}
+
+#artists h3 {
+    margin-top: 0.3em;
+}
